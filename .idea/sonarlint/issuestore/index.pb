@@ -5,3 +5,5 @@ T
 $contracts/identity-verification.clar,6/3/63627d2e05688d155fd361be7f5c89242e6c4fdd
 S
 #tests/identity-verification.test.ts,1/f/1f946c6e509440197e87e742a1435ac8a9a2bff1
+O
+contracts/aid-distribution.clar,b/f/bfeeb7b9a93977a02136a3856838882c4a537ca5

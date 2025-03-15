@@ -7,3 +7,5 @@ S
 #tests/identity-verification.test.ts,1/f/1f946c6e509440197e87e742a1435ac8a9a2bff1
 O
 contracts/aid-distribution.clar,b/f/bfeeb7b9a93977a02136a3856838882c4a537ca5
+S
+#contracts/family-reunification.clar,6/d/6d8e9f41cca9b9e440d20638484766d78c2697ac

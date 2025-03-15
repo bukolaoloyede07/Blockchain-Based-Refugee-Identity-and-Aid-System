@@ -10,6 +10,11 @@ path = 'contracts/aid-distribution.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.family-reunification]
+path = 'contracts/family-reunification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.identity-verification]
 path = 'contracts/identity-verification.clar'
 clarity_version = 2
